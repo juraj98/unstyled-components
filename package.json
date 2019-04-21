@@ -1,0 +1,24 @@
+{
+  "name": "unstyled-components",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juraj98@github.com/juraj98/unstyled-components.git"
+  },
+  "author": "Juraj Garaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juraj98/unstyled-components/issues"
+  },
+  "homepage": "https://github.com/juraj98/unstyled-components#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "styled-components": "^4.2.0"
+  }
+}
