@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
-import { STYLED_COMPONENTS_PROPS } from "obp-common/constants/propTypes";
+import { STYLED_COMPONENTS_PROPS } from "../constants/propTypes";
 
 import UnstyledButton from "./UnstyledButton";
 
