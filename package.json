@@ -1,38 +1,38 @@
 {
-    "name": "unstyled-components",
-    "version": "0.1.4",
-    "description": "",
-    "main": "build/index.js",
-    "scripts": {
-        "start": "webpack --watch",
-        "build": "webpack",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://juraj98@github.com/juraj98/unstyled-components.git"
-    },
-    "author": "Juraj Garaj",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/juraj98/unstyled-components/issues"
-    },
-    "homepage": "https://github.com/juraj98/unstyled-components#readme",
-    "dependencies": {
-        "prop-types": "^15.6.2",
-        "react": "^16.6.3",
-        "react-dom": "^16.8.6",
-        "styled-components": "^4.2.0",
-        "webpack": "^4.30.0"
-    },
-    "devDependencies": {
-        "@babel/cli": "^7.4.3",
-        "@babel/core": "^7.4.3",
-        "@babel/plugin-proposal-optional-chaining": "^7.2.0",
-        "@babel/plugin-transform-react-jsx": "^7.3.0",
-        "@babel/preset-env": "^7.4.3",
-        "babel-loader": "^8.0.5",
-        "babel-plugin-styled-components": "^1.10.0",
-        "webpack-cli": "^3.3.1"
-    }
+  "name": "unstyled-components",
+  "version": "0.1.5",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juraj98@github.com/juraj98/unstyled-components.git"
+  },
+  "author": "Juraj Garaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juraj98/unstyled-components/issues"
+  },
+  "homepage": "https://github.com/juraj98/unstyled-components#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0",
+    "webpack": "^4.30.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-styled-components": "^1.10.0",
+    "webpack-cli": "^3.3.1"
+  }
 }
